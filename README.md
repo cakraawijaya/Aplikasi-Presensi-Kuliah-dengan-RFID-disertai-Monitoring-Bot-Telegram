@@ -13,12 +13,12 @@ This Telegram-based ChatBot is built on the ``` Google App Scripts ``` platform 
 ## Project Requirements
 | Part | Description |
 | --- | --- |
-| Features | Reply Keyboard, Error Handling, User Log Activity, Attendance Data Monitoring, & Auto Input Data |
-| Platform | Google Apps Script & Freemysqlhosting |
+| Features | • Reply Keyboard<br>• Error Handling<br>• User Log Activity<br>• Attendance Data Monitoring<br>• Auto Input Data |
+| Platform | • Google Apps Script<br>• Freemysqlhosting |
 | Tools | Microsoft Visual Basic 6.0 Enterprise |
-| Function VB 6 | keybd_event & Sleep |
+| Function VB 6 | • keybd_event<br>• Sleep |
 | Framework | Lumpia.js |
-| Code | JavaScript, Visual Basic 6 |
+| Code | • JavaScript<br>• Visual Basic 6 |
 | Operation System | Windows 10 |
 
 <br><br>
